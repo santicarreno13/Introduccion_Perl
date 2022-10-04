@@ -29,4 +29,10 @@ my %dias = (
 );
 print %dias{L};
 print "\n";
+
+#constantes // nos permiten siempre tener un valor no se pude cambiar
+
+use constant pi => 3.1416;
+
+print pi ."\n";
 exit;
