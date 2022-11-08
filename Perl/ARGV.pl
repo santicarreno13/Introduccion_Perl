@@ -11,5 +11,5 @@ my $numero2 = $ARGV[1];
 my $total = $numero1 + $numero2;
 
 print "El total de la suma de $numero1 y $numero2 es igual a: $total";
-#para que enviar el la consola antes de ejecutar el programa se pone el nombre del archivo y luego se ponen los dos valores del array
+#para que enviar el la consola antes de ejecutar el programa se pone el nombre del archivo y luego se ponen los dos valores del array con espacios
 exit;
